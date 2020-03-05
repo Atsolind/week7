@@ -15,10 +15,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //this.testFunction();
-        //text = (TextView) findViewById(R.id.textView);
+        text = (TextView) findViewById(R.id.textView);
     }
     public void testFunction(View v) {
-        System.out.println("Hello World!");
-        //text.setText("MOIKKA MAAILMA");
+        //System.out.println("Hello World!");
+        text.setText("Hello World!");
     }
 }
