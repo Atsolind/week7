@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
         }
         catch (IOException e){
             Log.e("IOException", "Virhe syötteessä");
+            
         }
 
     }
