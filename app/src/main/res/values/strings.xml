@@ -7,4 +7,9 @@
     <string name="write_something_and_press_the_button">Write something and press the button</string>
     <string name="this_is_what_you_wrote">This is what you wrote</string>
     <string name="submit">submit</string>
+    <string name="stored_in_file">Stored in file:</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+    <string name="give_filename">Give filename</string>
+    <string name="write_something_to_save_to_chosen_file">Write something to save to chosen file</string>
 </resources>
